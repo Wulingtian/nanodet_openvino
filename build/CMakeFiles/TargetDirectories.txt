@@ -1,0 +1,4 @@
+/home/willer/nanodet_projects/nanodet_openvino/build/CMakeFiles/rebuild_cache.dir
+/home/willer/nanodet_projects/nanodet_openvino/build/CMakeFiles/edit_cache.dir
+/home/willer/nanodet_projects/nanodet_openvino/build/CMakeFiles/detect_test.dir
+/home/willer/nanodet_projects/nanodet_openvino/build/CMakeFiles/detector.dir
