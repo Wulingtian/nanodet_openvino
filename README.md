@@ -43,6 +43,7 @@ sudo ./install_prerequisites_onnx.sh（模型是从onnx转为IR文件，只需�
 OpenCV配置
 
 tar -xvzf opencv-3.4.2.zip 解压OpenCV到用户根目录即可，以便后续调用
+
 NanoDet模型转换
 
 pip install onnx
@@ -62,6 +63,7 @@ cd config 配置模型文件，训练模型
 python3 -m onnxsim onnx模型名称 nanodet-simple.onnx 得到最终简化后的onnx模型
 
 python /opt/intel/openvino/deployment_tools/model_optimizer/mo_onnx.py --input_model onnx简化的模型 --output_dir 期望模型输出的路径；得到IR文件
+
 NanoDet模型部署
 
 sudo apt install cmake 安装cmake
