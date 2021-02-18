@@ -1,6 +1,7 @@
 nanodet简介
 
 NanoDet （https://github.com/RangiLyu/nanodet）是一个速度超快和轻量级的Anchor-free 目标检测模型
+
 环境配置
 
 Ubuntu：18.04
